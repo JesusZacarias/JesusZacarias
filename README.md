@@ -9,8 +9,8 @@
 - ![](https://img.icons8.com/color/24/java-coffee-cup-logo--v1.png) &nbsp; Java &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  - ![](https://img.icons8.com/color/24/bootstrap--v2.png) &nbsp; Bootstrap
 <h3>🛠 Frameworks 💻 and Database 🛢 </h3>
 
-- ![](https://img.icons8.com/color/24/flutter.png) &nbsp; Flutter &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - ![](https://img.icons8.com/fluency/24/mysql-logo.png) &nbsp; MySql
-- ![](https://img.icons8.com/color/24/net-framework.png) &nbsp; Microsoft .NET  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - ![](https://img.icons8.com/color/24/microsoft-sql-server.png) &nbsp; SQL Server
+- ![](https://img.icons8.com/color/24/flutter.png) &nbsp; Flutter  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - ![](https://img.icons8.com/fluency/24/mysql-logo.png) &nbsp; MySql
+- ![](https://img.icons8.com/color/24/net-framework.png) &nbsp; Microsoft .NET  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - ![](https://img.icons8.com/color/24/microsoft-sql-server.png) &nbsp; SQL Server
 
 
 

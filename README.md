@@ -1,8 +1,7 @@
-### Hi there 👋, I'm [Jesus Zacarias Alejo](https://jesuszacarias.github.io/YisusWeb/) :computer:
-> A Computer Systems Engineer with a passion for technology, programming, and video games.
-> <br> My goal is to continue expanding my knowledge, mastering new technologies, and contributing to the development of innovative solutions that improve people's lives.
-<h3>🛠 Programming languages and web layout 🌐</h3>
-
+### Hi, I'm [Jesus](https://jesuszacarias.github.io/YisusWeb/)👋 :computer:
+> Software Developer focused on building mobile and enterprise applications using Flutter, .NET and SQL Server..
+> <br> I enjoy creating clean interfaces, solving real problems and turning ideas into functional products.
+ 
 - ![](https://img.icons8.com/color/24/dart.png) &nbsp; Dart &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - ![](https://img.icons8.com/color/24/css3.png) &nbsp; CSS
 - ![](https://img.icons8.com/external-those-icons-flat-those-icons/24/external-PHP-programming-and-development-those-icons-flat-those-icons.png) &nbsp; PHP &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - ![](https://img.icons8.com/color/24/html-5--v1.png) &nbsp; HTML
 - ![](https://img.icons8.com/external-others-iconmarket/24/external-vb-file-types-others-iconmarket.png) &nbsp; Visual Basic &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - ![](https://img.icons8.com/color/24/javascript--v1.png) &nbsp; JavaScript

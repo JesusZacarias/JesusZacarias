@@ -2,9 +2,10 @@
 > Software Developer focused on building mobile and enterprise applications using Flutter, .NET and SQL Server..
 > <br> I enjoy creating clean interfaces, solving real problems and turning ideas into functional products.
  
-- ![](https://img.icons8.com/color/24/dart.png) &nbsp; Dart &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - ![](https://img.icons8.com/color/24/css3.png) &nbsp; CSS
+- ![](https://img.icons8.com/color/24/dart.png) &nbsp; Dart 
+- ![](https://img.icons8.com/?size=100&id=40669&format=png&color=000000) &nbsp; C# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - ![](https://img.icons8.com/color/24/css3.png) &nbsp; CSS
 - ![](https://img.icons8.com/external-those-icons-flat-those-icons/24/external-PHP-programming-and-development-those-icons-flat-those-icons.png) &nbsp; PHP &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-- - ![](https://img.icons8.com/color/24/html-5--v1.png) &nbsp; HTML &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - ![](https://img.icons8.com/color/24/javascript--v1.png) &nbsp; JavaScript
+- ![](https://img.icons8.com/color/24/html-5--v1.png) &nbsp; HTML &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - ![](https://img.icons8.com/color/24/javascript--v1.png) &nbsp; JavaScript
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  - ![](https://img.icons8.com/color/24/bootstrap--v2.png) &nbsp; Bootstrap
 <h3>🛠 Frameworks 💻 and Database 🛢 </h3>
 

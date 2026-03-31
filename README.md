@@ -3,9 +3,8 @@
 > <br> I enjoy creating clean interfaces, solving real problems and turning ideas into functional products.
  
 - ![](https://img.icons8.com/color/24/dart.png) &nbsp; Dart &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - ![](https://img.icons8.com/color/24/css3.png) &nbsp; CSS
-- ![](https://img.icons8.com/external-those-icons-flat-those-icons/24/external-PHP-programming-and-development-those-icons-flat-those-icons.png) &nbsp; PHP &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - ![](https://img.icons8.com/color/24/html-5--v1.png) &nbsp; HTML
-- ![](https://img.icons8.com/external-others-iconmarket/24/external-vb-file-types-others-iconmarket.png) &nbsp; Visual Basic &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - ![](https://img.icons8.com/color/24/javascript--v1.png) &nbsp; JavaScript
-- ![](https://img.icons8.com/color/24/java-coffee-cup-logo--v1.png) &nbsp; Java &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  - ![](https://img.icons8.com/color/24/bootstrap--v2.png) &nbsp; Bootstrap
+- ![](https://img.icons8.com/external-those-icons-flat-those-icons/24/external-PHP-programming-and-development-those-icons-flat-those-icons.png) &nbsp; PHP &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - ![](https://img.icons8.com/color/24/html-5--v1.png) &nbsp; HTML &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - ![](https://img.icons8.com/color/24/javascript--v1.png) &nbsp; JavaScript
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  - ![](https://img.icons8.com/color/24/bootstrap--v2.png) &nbsp; Bootstrap
 <h3>🛠 Frameworks 💻 and Database 🛢 </h3>
 
 - ![](https://img.icons8.com/color/24/flutter.png) &nbsp; Flutter  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - ![](https://img.icons8.com/fluency/24/mysql-logo.png) &nbsp; MySql
